@@ -1,0 +1,10 @@
+{
+    "name": "cllakyz/php-mvc-core",
+    "authors": [
+        {
+            "name": "Celal",
+            "email": "celal7174@gmail.com"
+        }
+    ],
+    "require": {}
+}
