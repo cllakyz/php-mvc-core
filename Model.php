@@ -1,13 +1,13 @@
 <?php
 
 
-namespace App\Core;
+namespace cllakyz\phpmvc;
 
 /**
  * Class Model
  *
  * @author Celal Akyüz <cllakyz@hotmail.com>
- * @package App\Core
+ * @package cllakyz\phpmvc
  */
 abstract class Model
 {

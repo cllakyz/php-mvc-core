@@ -1,15 +1,15 @@
 <?php
 
 
-namespace App\Core\Form;
+namespace cllakyz\phpmvc\Form;
 
-use App\Core\Model;
+use cllakyz\phpmvc\Model;
 
 /**
  * Class InputField
  *
  * @author Celal Akyüz <cllakyz@hotmail.com>
- * @package App\Core\Form
+ * @package cllakyz\phpmvc\Form
  */
 class InputField extends BaseField
 {

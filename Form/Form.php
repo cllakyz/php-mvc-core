@@ -1,16 +1,16 @@
 <?php
 
 
-namespace App\Core\Form;
+namespace cllakyz\phpmvc\Form;
 
-use App\Core\Form\InputField;
-use App\Core\Model;
+use cllakyz\phpmvc\Form\InputField;
+use cllakyz\phpmvc\Model;
 
 /**
  * Class Form
  *
  * @author Celal Akyüz <cllakyz@hotmail.com>
- * @package App\Core\Form
+ * @package cllakyz\phpmvc\Form
  */
 class Form
 {

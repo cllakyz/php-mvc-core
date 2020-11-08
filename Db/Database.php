@@ -1,9 +1,9 @@
 <?php
 
 
-namespace App\Core\Db;
+namespace cllakyz\phpmvc\Db;
 
-use App\Core\Application;
+use cllakyz\phpmvc\Application;
 use PDO;
 use PDOStatement;
 
@@ -11,7 +11,7 @@ use PDOStatement;
  * Class Database
  *
  * @author Celal Akyüz <cllakyz@hotmail.com>
- * @package App\Core\Db
+ * @package cllakyz\phpmvc\Db
  */
 class Database
 {

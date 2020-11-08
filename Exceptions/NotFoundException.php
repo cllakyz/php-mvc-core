@@ -1,14 +1,14 @@
 <?php
 
 
-namespace App\Core\Exceptions;
+namespace cllakyz\phpmvc\Exceptions;
 
 use Exception;
 
 /**
  * Class NotFoundException
  * @author Celal Akyüz <cllakyz@hotmail.com>
- * @package App\Core\Exceptions
+ * @package cllakyz\phpmvc\Exceptions
  */
 class NotFoundException extends Exception
 {

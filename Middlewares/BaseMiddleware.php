@@ -1,12 +1,12 @@
 <?php
 
 
-namespace App\Core\Middlewares;
+namespace cllakyz\phpmvc\Middlewares;
 
 /**
  * Class BaseMiddleware
  * @author Celal Akyüz <cllakyz@hotmail.com>
- * @package App\Core\Middlewares
+ * @package cllakyz\phpmvc\Middlewares
  */
 abstract class BaseMiddleware
 {

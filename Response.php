@@ -1,12 +1,12 @@
 <?php
 
 
-namespace App\Core;
+namespace cllakyz\phpmvc;
 
 /**
  * Class Response
  *
- * @package App\Core
+ * @package cllakyz\phpmvc
  * @author Celal Akyüz <cllakyz@hotmail.com>
  */
 class Response

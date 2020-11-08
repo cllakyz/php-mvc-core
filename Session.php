@@ -1,13 +1,13 @@
 <?php
 
 
-namespace App\Core;
+namespace cllakyz\phpmvc;
 
 /**
  * Class Session
  *
  * @author Celal Akyüz <cllakyz@hotmail.com>
- * @package App\Core
+ * @package cllakyz\phpmvc
  */
 class Session
 {

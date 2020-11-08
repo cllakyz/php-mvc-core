@@ -1,15 +1,15 @@
 <?php
 
 
-namespace App\Core;
-use App\Core\Db\Database;
-use App\Core\Db\DbModel;
+namespace cllakyz\phpmvc;
+use cllakyz\phpmvc\Db\Database;
+use cllakyz\phpmvc\Db\DbModel;
 
 /**
  * Class Application
  *
  * @author Celal Akyüz <cllakyz@hotmail.com>
- * @package App\Core
+ * @package cllakyz\phpmvc
  */
 class Application
 {

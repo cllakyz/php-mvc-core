@@ -1,14 +1,14 @@
 <?php
 
 
-namespace App\Core\Exceptions;
+namespace cllakyz\phpmvc\Exceptions;
 
 use Exception;
 
 /**
  * Class ForbiddenException
  * @author Celal Akyüz <cllakyz@hotmail.com>
- * @package App\Core\Exceptions
+ * @package cllakyz\phpmvc\Exceptions
  */
 class ForbiddenException extends Exception
 {

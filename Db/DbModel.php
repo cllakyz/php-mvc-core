@@ -1,17 +1,17 @@
 <?php
 
 
-namespace App\Core\Db;
+namespace cllakyz\phpmvc\Db;
 
-use App\Core\Application;
-use App\Core\Model;
+use cllakyz\phpmvc\Application;
+use cllakyz\phpmvc\Model;
 use PDOStatement;
 
 /**
  * Class DbModel
  *
  * @author Celal Akyüz <cllakyz@hotmail.com>
- * @package App\Core\Db
+ * @package cllakyz\phpmvc\Db
  */
 abstract class DbModel extends Model
 {

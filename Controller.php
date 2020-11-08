@@ -1,15 +1,15 @@
 <?php
 
 
-namespace App\Core;
+namespace cllakyz\phpmvc;
 
-use App\Core\Middlewares\BaseMiddleware;
+use cllakyz\phpmvc\Middlewares\BaseMiddleware;
 
 /**
  * Class Controller
  *
  * @author Celal Akyüz <cllakyz@hotmail.com>
- * @package App\Core
+ * @package cllakyz\phpmvc
  */
 class Controller
 {

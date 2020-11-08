@@ -1,15 +1,15 @@
 <?php
 
 
-namespace App\Core;
+namespace cllakyz\phpmvc;
 
-use App\Core\Db\DbModel;
+use cllakyz\phpmvc\Db\DbModel;
 
 /**
  * Class UserModel
  *
  * @author Celal Akyüz <cllakyz@hotmail.com>
- * @package App\Core
+ * @package cllakyz\phpmvc
  */
 abstract class UserModel extends DbModel
 {

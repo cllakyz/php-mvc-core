@@ -1,14 +1,14 @@
 <?php
 
 
-namespace App\Core;
-use App\Core\Exceptions\NotFoundException;
+namespace cllakyz\phpmvc;
+use cllakyz\phpmvc\Exceptions\NotFoundException;
 
 /**
  * Class Router
  *
  * @author Celal Akyüz <cllakyz@hotmail.com>
- * @package App\Core
+ * @package cllakyz\phpmvc
  */
 class Router
 {
